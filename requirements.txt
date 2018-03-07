@@ -1,5 +1,6 @@
 appdirs==1.4.3
 packaging==16.8
+py4j==0.10.6
 pyparsing==2.2.0
-pyspark==2.1.0+hadoop2.7
+pyspark==2.3.0
 six==1.10.0
